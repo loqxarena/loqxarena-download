@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "472410424781",
+    "project_id": "loqxarena-admin",
+    "storage_bucket": "loqxarena-admin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472410424781:android:0168d972ffa2f368b1b084",
+        "android_client_info": {
+          "package_name": "com.loqxarena.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472410424781-jkuc0lbke79ehsj1tajb8c8n826lh62a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loqxarena.app",
+            "certificate_hash": "dec732b426c54a628bb514e789e5c105a9f7a61c"
+          }
+        },
+        {
+          "client_id": "472410424781-241f9gct5ujq1bm0d4b5009c9afu7orb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiLi7gB59r-LdP-fJvXvfMIMqGzsEvkBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472410424781-241f9gct5ujq1bm0d4b5009c9afu7orb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
